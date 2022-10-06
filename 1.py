@@ -1,0 +1,10 @@
+a = "Taya_"
+b = "Konovalova_"
+c = 2004
+print(a, b, c, sep="")
+t = a 
+a = b 
+b = t 
+k = c + 60
+c = k 
+print(a, b, c, sep="")
